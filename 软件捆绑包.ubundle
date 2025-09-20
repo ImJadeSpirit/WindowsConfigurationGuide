@@ -1,0 +1,208 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "AdrienAllard.FileConverter",
+      "Name": "File Converter",
+      "Version": "2.1.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "AnyTXT.AnyTXTSearcher",
+      "Name": "AnyTXT Searcher",
+      "Version": "1.3.2471",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Bopsoft.Listary",
+      "Name": "Listary",
+      "Version": "6.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "DevToys-app.DevToys",
+      "Name": "DevToys",
+      "Version": "2.0-preview.8",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "DigitalScholar.Zotero",
+      "Name": "Zotero",
+      "Version": "7.0.16",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Ditto.Ditto",
+      "Name": "Ditto",
+      "Version": "3.24.246.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "DuongDieuPhap.ImageGlass",
+      "Name": "ImageGlass",
+      "Version": "9.3.2.520",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "EpicGames.EpicGamesLauncher",
+      "Name": "Epic Games Launcher",
+      "Version": "1.3.149.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "FilesCommunity.Files",
+      "Name": "Files",
+      "Version": "3.9.1.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.PowerToys",
+      "Name": "PowerToys",
+      "Version": "0.91.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Microsoft.VisualStudioCode",
+      "Name": "Microsoft Visual Studio Code",
+      "Version": "1.101.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Mozilla.Thunderbird.zh-CN",
+      "Name": "Mozilla Thunderbird (zh-CN)",
+      "Version": "139.0.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "OBSProject.OBSStudio",
+      "Name": "OBS Studio",
+      "Version": "31.1.0",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "InstallationOptions": {
+        "OverridesNextLevelOpts": true,
+        "RunAsAdministrator": true
+      }
+    },
+    {
+      "Id": "PixPin.PixPin",
+      "Name": "PixPin",
+      "Version": "2.0.0.3",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Sandboxie.Plus",
+      "Name": "Sandboxie-Plus",
+      "Version": "1.15.8",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Tencent.QQ.NT",
+      "Name": "QQ",
+      "Version": "9.9.19.34362",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "Updates": {
+        "UpdatesIgnored": true,
+        "IgnoredVersion": "*"
+      }
+    },
+    {
+      "Id": "Tencent.TencentMeeting",
+      "Name": "Tencent Meeting",
+      "Version": "3.35.1.435",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Tencent.WeChat.Universal",
+      "Name": "WeChat",
+      "Version": "4.0.5.18",
+      "Source": "winget",
+      "ManagerName": "Winget",
+      "Updates": {
+        "UpdatesIgnored": true,
+        "IgnoredVersion": "*"
+      }
+    },
+    {
+      "Id": "Tencent.WeCom",
+      "Name": "\u4F01\u4E1A\u5FAE\u4FE1",
+      "Version": "4.1.38.6006",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Valve.Steam",
+      "Name": "Steam",
+      "Version": "2.10.91.91",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "VideoLAN.VLC",
+      "Name": "VLC media player",
+      "Version": "3.0.21",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "XP8LZ3XFW0JQLZ",
+      "Name": "WeGame",
+      "Version": "Unknown",
+      "Source": "msstore",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Zen-Team.Zen-Browser",
+      "Name": "Zen Browser",
+      "Version": "1.15.5b",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "ente-io.auth-desktop",
+      "Name": "Ente Auth",
+      "Version": "4.4.4",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "geeksoftwareGmbH.PDF24Creator",
+      "Name": "PDF24 Creator",
+      "Version": "11.28.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "qBittorrent.qBittorrent",
+      "Name": "qBittorrent",
+      "Version": "5.1.2",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "voidtools.Everything",
+      "Name": "Everything",
+      "Version": "1.4.1.1026",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": []
+}
